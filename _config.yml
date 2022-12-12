@@ -15,5 +15,8 @@ author:           ""
 #feed:
 #  path: rss-feed.xml
 
+include:
+  - pages
+
 hide_post_share: true
 hide_related_posts: true
