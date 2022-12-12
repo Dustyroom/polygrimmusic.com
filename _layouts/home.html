@@ -3,5 +3,8 @@ layout: default
 title: Home
 ---
 
-{% capture my_include %}{% include brimming.md %}{% endcapture %}
-{{ my_include | markdownify }}
+{% for post in site.posts limit:1 %}
+
+{{ post.content }}
+
+{% endfor %}
