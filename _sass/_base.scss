@@ -40,13 +40,13 @@ h4, h5, h6 {
 /* Body */
 body {
   font-family: $base-font-family;
-  background-color: $background-color;
+  background-color: $bg-color;
 }
 body img {
   align: middle;
   margin: 5px auto auto auto;
   display: block;
-  max-width: 1100px;
+  max-width: 600px;
 }
 
 p {
