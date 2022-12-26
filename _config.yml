@@ -1,21 +1,20 @@
 # Site Build Settings
 
 # Build settings
-markdown:         kramdown
-highlighter:      rouge
-permalink:        /:title
-plugins:          [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+markdown: kramdown
+highlighter: rouge
+permalink: /:title
+plugins: [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
-title:            "POLYGRIM"
-description:      "SOLEMN. MUSIC VIDEO"
-author:           "Polygrim"
+title: "POLYGRIM"
+description: "BRIMMING"
+author: "Polygrim"
 
 include:
   - pages
 
 hide_post_share: true
 hide_related_posts: true
-
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
