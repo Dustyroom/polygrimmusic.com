@@ -1,6 +1,6 @@
 .featured-post {
   height: 600px;
-  width: 100%;
+  width: 1100px;
   margin: 5px 10px 10px;
   background-position: center;
   background-repeat: no-repeat;
@@ -16,7 +16,7 @@
 }
 .featured-post h2 span {
   display: inline-block;
-  color: white;
+  color: #e3e4e8;
   font: bold 24px/45px Helvetica, Sans-Serif;
   letter-spacing: -1px;
   background: rgb(0, 0, 0); /* fallback color */
@@ -24,7 +24,7 @@
   padding: 10px;
 }
 .featured-post span a {
-  color: white;
+  color: #e3e4e8;
 }
 .featured-post h1 {
   margin: 10px;
