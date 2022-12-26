@@ -1,9 +1,9 @@
 <head>
   <title>
     {% if page.title == "Home" %}
-      {{ site.description }} • {{ site.title }}
+    {{ site.description }} • {{ site.title }}
     {% else %}
-      {{ page.title }} • {{ site.title }}
+    {{ page.title }} • {{ site.title }}
     {% endif %}
   </title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,7 +12,13 @@
   <link rel="stylesheet" href="{{ site.github.url }}/assets/css/syntax.css">
 
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Source+Code+Pro">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+
+  <!-- Font Awesome -->
+  <link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style"
+    onload="this.onload=null;this.rel='stylesheet'">
+  <noscript>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+  </noscript>
 
   <!-- Google Analytics -->
   {% include google-analytics.html %}
