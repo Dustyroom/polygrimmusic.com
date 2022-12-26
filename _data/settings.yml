@@ -5,15 +5,22 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'WHOAMI',              url: 'whoami'}
-- {name: 'Contact',            url: 'contact'}
+- {name: 'MUSIC', url: 'music'}
+- {name: 'EVENTS', url: 'events'}
+- {name: 'DUSTYROOM', url: 'https://dustyroom.com'}
+- {name: 'WHOAMI', url: 'whoami'}
+- {name: 'CONTACT', url: 'contact'}
 
-# Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://twitter.com/polygrim'}
-- {icon: 'facebook', link:   'https://www.facebook.com/polygrim'}
-- {icon: 'instagram', link:  'https://instagram.com/polygrim'}
-- {icon: 'envelope', link:   'mailto:info@polygrimmusic.com'}
+- {icon: 'spotify', link: 'https://open.spotify.com/artist/018A6LxO13Q73gvr4VoY6f'}
+- {icon: 'apple', link: 'https://music.apple.com/us/artist/polygrim/965253375'}
+- {icon: 'bandcamp', link: 'https://polygrim.bandcamp.com/'}
+- {icon: 'instagram', link: 'https://instagram.com/polygrim'}
+- {icon: 'facebook', link: 'https://www.facebook.com/polygrim'}
+- {icon: 'youtube', link:'https://www.youtube.com/channel/UC1HB44Xj4XLQHBqnYv7qkAA'}
+- {icon: 'soundcloud', link: 'https://soundcloud.com/polygrim'}
+- {icon: 'twitter', link: 'https://twitter.com/polygrim'}
+- {icon: 'envelope', link: 'mailto:info@polygrimmusic.com'}
 
 pagination:
   enabled: false
