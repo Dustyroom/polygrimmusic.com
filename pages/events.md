@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Events
+title: EVENTS
 category: events
 permalink: /events
 ---

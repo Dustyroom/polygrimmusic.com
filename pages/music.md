@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Music
+title: MUSIC
 category: music
 permalink: /music
 ---
