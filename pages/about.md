@@ -1,7 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about
+title: WHOAMI
+permalink: /whoami
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out .
+![Polygrim](/assets/img/IMG_20170530_1201053.jpg)
+
+My name is Volodymyr, I live in Kyiv. I’ve been making music as Polygrim since 2014. Also, I make audio and visual art for the game studio [Dustyroom](http://dustyroom.com/).

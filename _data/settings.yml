@@ -1,20 +1,19 @@
 disqus:
   comments: false
-  disqus_shortname: 'millennial-3'
+  disqus_shortname: 'polygrim'
 
 google-ID: ''
 
 menu:
-- {name: 'About',              url: 'about'}
+- {name: 'WHOAMI',              url: 'whoami'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://twitter.com/paululele'}
-- {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
-- {icon: 'instagram', link:  'https://instagram.com/paululele'}
-- {icon: 'envelope', link:   'mailto:hello@paulle.ca'}
-- {icon: 'rss-square', link: 'feed.xml'}
+- {icon: 'twitter', link:    'https://twitter.com/polygrim'}
+- {icon: 'facebook', link:   'https://www.facebook.com/polygrim'}
+- {icon: 'instagram', link:  'https://instagram.com/polygrim'}
+- {icon: 'envelope', link:   'mailto:info@polygrimmusic.com'}
 
 pagination:
   enabled: false
