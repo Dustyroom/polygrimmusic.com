@@ -6,15 +6,15 @@ menu:
 - {name: 'WHOAMI', url: 'whoami'}
 
 social:
-- {icon: 'fa-brands fa-square-font-awesome-stroke fa-spotify', link: 'https://open.spotify.com/artist/018A6LxO13Q73gvr4VoY6f'}
-- {icon: 'fa-brands fa-square-font-awesome-stroke fa-apple', link: 'https://music.apple.com/us/artist/polygrim/965253375'}
-- {icon: 'fa-brands fa-square-font-awesome-stroke fa-bandcamp', link: 'https://polygrim.bandcamp.com/'}
-- {icon: 'fa-brands fa-square-font-awesome-stroke fa-instagram', link: 'https://instagram.com/polygrim'}
-- {icon: 'fa-brands fa-square-font-awesome-stroke fa-facebook', link: 'https://www.facebook.com/polygrim'}
-- {icon: 'fa-brands fa-square-font-awesome-stroke fa-youtube', link: 'https://www.youtube.com/channel/UC1HB44Xj4XLQHBqnYv7qkAA'}
-- {icon: 'fa-brands fa-square-font-awesome-stroke fa-soundcloud', link: 'https://soundcloud.com/polygrim'}
-- {icon: 'fa-brands fa-square-font-awesome-stroke fa-twitter', link: 'https://twitter.com/polygrim'}
-- {icon: 'fa-brands fa-square-font-awesome-stroke fa-envelope', link: 'mailto:info@polygrimmusic.com'}
+- {icon: 'fa-spotify', link: 'https://open.spotify.com/artist/018A6LxO13Q73gvr4VoY6f'}
+- {icon: 'fa-apple', link: 'https://music.apple.com/us/artist/polygrim/965253375'}
+- {icon: 'fa-bandcamp', link: 'https://polygrim.bandcamp.com/'}
+- {icon: 'fa-instagram', link: 'https://instagram.com/polygrim'}
+- {icon: 'fa-facebook', link: 'https://www.facebook.com/polygrim'}
+- {icon: 'fa-youtube', link: 'https://www.youtube.com/channel/UC1HB44Xj4XLQHBqnYv7qkAA'}
+- {icon: 'fa-soundcloud', link: 'https://soundcloud.com/polygrim'}
+- {icon: 'fa-twitter', link: 'https://twitter.com/polygrim'}
+- {icon: 'fa-envelope', link: 'mailto:info@polygrimmusic.com'}
 
 pagination:
   enabled: false

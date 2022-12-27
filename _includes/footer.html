@@ -1,6 +1,11 @@
 <footer class="footer">
   {% for item in site.data.settings.social %}
-    <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+    <a href="{{ item.link }}" class="menu-link" target="_blank">
+      <span class="fa-stack fa-2x">
+        <i class="fas fa-circle-thin fa-stack-2x"></i>
+        <i class="fas {{ item.icon }} fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
   {% endfor %}
   <div class="footer-description"><a href="{{ site.github.url }}/">{{ site.title }} | &copy; {{ site.time | date: '%Y' }}</a></div>
 </footer>
