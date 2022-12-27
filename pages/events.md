@@ -15,15 +15,15 @@ For booking please contact `info@polygrimmusic.com`
 | [Aprize Music Awards](https://www.facebook.com/aprize.musicaward/) | Mezzanine • Kyiv, UA | 26 Feb 2021 |
 | [VITAL](https://www.facebook.com/events/221032379056403/) | Podil • Kyiv, UA | 22 Aug 2020 |
 | [Atlas Weekend](https://www.facebook.com/atlasweekend) | Expocenter • Kyiv, UA | 11 Jul 2019 |
-| [The Last Party on Earth](https://www.facebook.com/events/2257242891037187/?ti=cl&__mref=mb) | Zhytniy Rynok • Kyiv, UA | 20 APR 2019 |
+| [The Last Party on Earth](https://www.facebook.com/events/2257242891037187/?ti=cl&__mref=mb) | Zhytniy Rynok • Kyiv, UA | 20 Apr 2019 |
 | [2Sleepy + Polygrim](https://www.facebook.com/events/229355444445376/) | UBK • Kyiv, UA | 26 Aug 2018 |
 | [Hedonism Festival 2018](https://www.facebook.com/events/263985794175077/) | UBK • Kyiv, UA | 14 Jul 2018 |
-| [Vibronica Festival 2018](https://www.facebook.com/events/559430894429047/) | Secret Spot • Kyiv Area, UA | 13 JUL 2018 |
+| [Vibronica Festival 2018](https://www.facebook.com/events/559430894429047/) | Secret Spot • Kyiv Area, UA | 13 Jul 2018 |
 | [Atlas Weekend](https://www.facebook.com/events/136162750585377/) | Expocenter • Kyiv, UA | 07 Jul 2018 |
-| [Kultura Zvuka #013](https://www.facebook.com/events/379505969228072/) | Art Area DK • Kharkiv, UA | 16 JUN 2018 |
+| [Kultura Zvuka #013](https://www.facebook.com/events/379505969228072/) | Art Area DK • Kharkiv, UA | 16 Jun 2018 |
 | [Nousinthis w/ Polygrim](https//www.facebook.com/events/179104682865578/) | Atlas • KYIV, UA | 17 May 2018 |
 | [Teleport](https://www.facebook.com/events/150866075539690/) | Telecenter • KYIV, UA | 31 Dec 2017 |
-| [Plan B × Stereo Visual](https://www.facebook.com/events/131722157525649/) | depstor friendly bar • KHARKIV, UA | 02 DEC 2017 |
+| [Plan B × Stereo Visual](https://www.facebook.com/events/131722157525649/) | depstor friendly bar • KHARKIV, UA | 02 Dec 2017 |
 | [Teplytsia](https://www.facebook.com/events/1708184129477150) | Teplytsia • SLOVYANSK, UA | 16 Sep 2017 |
 | [Black Resonance](https://www.facebook.com/events/109032083087633) | Mezzanine • KYIV, UA | 05 Aug 2017 |
 | [Live at Kultura Zvuka](https://www.facebook.com/pg/kulturazvuka/) | Kultura Zvuka • KHARKIV, UA | 02 Jul 2017 |
