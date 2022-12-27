@@ -115,7 +115,8 @@ table {
 }
 
 table, th, td {
-  border: 1px solid black;
+  border: 1px solid transparent;
+  font-size: smaller;
 }
 th, td {
   padding: 15px;
