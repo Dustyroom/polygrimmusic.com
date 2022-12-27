@@ -8,9 +8,8 @@ For booking please contact `info@polygrimmusic.com`
 
 | Event | Venue | Date |
 | ----- | ----- | ---- |
-| [На Часі / Na Chasi](https://polygrimmusic.com/events/) | Mezzanine • Kyiv, UA | 29 Oct 2022 |
+| [На Часі / Na Chasi](https://www.facebook.com/events/1724173171303179/) | Mezzanine • Kyiv, UA | 29 Oct 2022 |
 | [Povilno Session 8](https://www.facebook.com/events/189496829740568/) | Keller Bar • Kyiv, UA | 06 Jun 2021 |
-| [На Часі / Na Chasi](https://polygrimmusic.com/events/) | Mezzanine • Kyiv, UA | 29 Oct 2022 |
 | [Hvlv Live](https://www.facebook.com/hvlvbar/) | Hvlv • Kyiv, UA | 28 Feb 2021 |
 | [Aprize Music Awards](https://www.facebook.com/aprize.musicaward/) | Mezzanine • Kyiv, UA | 26 Feb 2021 |
 | [VITAL](https://www.facebook.com/events/221032379056403/) | Podil • Kyiv, UA | 22 Aug 2020 |

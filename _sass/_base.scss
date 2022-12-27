@@ -43,7 +43,7 @@ body {
   background-color: $bg-color;
 }
 body img {
-  align: middle;
+  box-align: middle;
   margin: 5px auto auto auto;
   display: block;
   max-width: 600px;
@@ -116,7 +116,7 @@ table {
 
 table, th, td {
   border: 1px solid transparent;
-  font-size: smaller;
+  font-size: small;
 }
 th, td {
   padding: 15px;
