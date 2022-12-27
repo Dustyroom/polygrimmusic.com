@@ -6,14 +6,14 @@ menu:
 - {name: 'WHOAMI', url: 'whoami'}
 
 social:
-- {icon: 'fa-spotify', link: 'https://open.spotify.com/artist/018A6LxO13Q73gvr4VoY6f'}
-- {icon: 'fa-apple', link: 'https://music.apple.com/us/artist/polygrim/965253375'}
-- {icon: 'fa-bandcamp', link: 'https://polygrim.bandcamp.com/'}
-- {icon: 'fa-instagram', link: 'https://instagram.com/polygrim'}
-- {icon: 'fa-facebook', link: 'https://www.facebook.com/polygrim'}
-- {icon: 'fa-youtube', link: 'https://www.youtube.com/channel/UC1HB44Xj4XLQHBqnYv7qkAA'}
-- {icon: 'fa-soundcloud', link: 'https://soundcloud.com/polygrim'}
-- {icon: 'fa-twitter', link: 'https://twitter.com/polygrim'}
+- {icon: 'fa-brands fa-spotify', link: 'https://open.spotify.com/artist/018A6LxO13Q73gvr4VoY6f'}
+- {icon: 'fa-brands fa-apple', link: 'https://music.apple.com/us/artist/polygrim/965253375'}
+- {icon: 'fa-brands fa-bandcamp', link: 'https://polygrim.bandcamp.com/'}
+- {icon: 'fa-brands fa-instagram', link: 'https://instagram.com/polygrim'}
+- {icon: 'fa-brands fa-facebook', link: 'https://www.facebook.com/polygrim'}
+- {icon: 'fa-brands fa-youtube', link: 'https://www.youtube.com/channel/UC1HB44Xj4XLQHBqnYv7qkAA'}
+- {icon: 'fa-brands fa-soundcloud', link: 'https://soundcloud.com/polygrim'}
+- {icon: 'fa-brands fa-twitter', link: 'https://twitter.com/polygrim'}
 - {icon: 'fa-envelope', link: 'mailto:info@polygrimmusic.com'}
 
 pagination:
