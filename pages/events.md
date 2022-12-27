@@ -4,7 +4,7 @@ title: EVENTS
 permalink: /events
 ---
 
-For booking please contact `info @ polygrimmusic . com`.
+For booking please contact `info@polygrimmusic.com`
 
 | Event | Venue | Date |
 | ----- | ----- | ---- |
