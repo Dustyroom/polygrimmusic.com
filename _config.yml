@@ -9,7 +9,7 @@ plugins: [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 title: "POLYGRIM"
 description: "BRIMMING"
 author: "Polygrim"
-url: "https://polygrimmusic.com"
+url: "//polygrimmusic.com"
 
 include:
   - pages
