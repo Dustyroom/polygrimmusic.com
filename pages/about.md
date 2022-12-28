@@ -10,6 +10,6 @@ My name is Volodymyr, I live in Kyiv. I’ve been making music as Polygrim since
 
 ---
 
-### [Press Kit](https://polygrimmusic.com/press){: .btn .btn--primary .btn--large}
+### [Press Kit](https://polygrimmusic.com/press){: .link-rect}
 
-### [Technical Rider](/assets/docs/polygrim_tech_rider.pdf){: .btn .btn--primary .btn--large}
+### [Technical Rider](/assets/docs/polygrim_tech_rider.pdf){: .link-rect}
