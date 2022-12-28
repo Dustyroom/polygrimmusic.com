@@ -93,6 +93,17 @@ a {
   text-decoration: none;
 }
 
+// Link in a rectangle
+a.link-rect {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: $brand-color;
+  color: $bg-color;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+}
+
 /*
   Blockquote
 */
