@@ -100,7 +100,7 @@ a.link-rect {
   background-color: $brand-color;
   color: $bg-color;
   border-radius: 5px;
-  text-decoration: none;
+  text-decoration: none !important;
   transition: all 0.2s ease-in-out;
 }
 
