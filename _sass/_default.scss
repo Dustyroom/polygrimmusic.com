@@ -10,6 +10,9 @@
 .container a {
   text-decoration: underline;
 }
+.container a.link-rect {
+  text-decoration: none;
+}
 .content-wrapper {
   padding-top: $header-thickness;
   margin: auto;
