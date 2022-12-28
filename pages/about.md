@@ -7,3 +7,7 @@ permalink: /whoami
 ![Polygrim](/assets/img/IMG_20170530_1201053.jpg)
 
 My name is Volodymyr, I live in Kyiv. I’ve been making music as Polygrim since 2014. Also, I make audio and visual art for the game studio [Dustyroom](http://dustyroom.com/).
+
+### [Press Kit](https://polygrimmusic.com/press)
+
+### [Technical Rider](/assets/docs/polygrim_live_tech_rider_2021.pdf)
