@@ -41,11 +41,10 @@ $header-thickness: 56px;
     max-width: 100%;
 }
 
-.embed-bandcamp iframe, .embed-container object, .embed-bandcamp embed {
+.embed-bandcamp iframe, .embed-bandcamp object, .embed-bandcamp embed {
     position: absolute;
     top: 0;
-    left: 50%;
-    right: 50%;
+    left: 0;
     width: 100%;
     height: 100%;
 }
