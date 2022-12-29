@@ -35,7 +35,6 @@ $header-thickness: 56px;
 }
 
 .embed-bandcamp {
-    margin: 0 auto 0 auto;
     position: relative;
     height: 0;
     overflow: hidden;
@@ -43,6 +42,7 @@ $header-thickness: 56px;
 }
 
 .embed-bandcamp iframe, .embed-container object, .embed-container embed {
+    margin: 0 auto 0 auto;
     position: absolute;
     top: 0;
     left: 0;
