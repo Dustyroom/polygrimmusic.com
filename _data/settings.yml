@@ -1,6 +1,7 @@
 google-ID: ''
 
 menu:
+- {name: 'SOLEMN. MUSIC VIDEO', url: 'solemn'}
 - {name: 'MUSIC', url: 'music'}
 - {name: 'EVENTS', url: 'events'}
 - {name: 'WHOAMI', url: 'whoami'}
