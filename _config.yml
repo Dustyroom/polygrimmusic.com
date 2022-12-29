@@ -11,6 +11,7 @@ title: "POLYGRIM"
 description: "BRIMMING"
 author: "Polygrim"
 url: "//polygrimmusic.com"
+logo: "/assets/img/polygrim_logo_1.jpg"
 
 include:
   - pages
