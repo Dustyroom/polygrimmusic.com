@@ -7,8 +7,9 @@
 }
 .footer a {
   color: $brand-color;
-  padding: 0px 1px 0px;
+  padding: 0px 0px 0px;
   text-decoration: none;
+  font-size: 0.95rem
 }
 @media (max-width: $container-width) {
   .footer {
