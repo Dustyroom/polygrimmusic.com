@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Polygrim</title>
+	<founding-date>September 1, 2014</founding-date>
+	<website>http://www.polygrimmusic.com/</website>
+	<based-in>Kyiv, Ukraine</based-in>
+	
+	<press-contact>info@polygrimmusic.com</press-contact>
+
+	<socials>
+		<social>
+			<name>Spotify</name>
+			<link>https://open.spotify.com/artist/018A6LxO13Q73gvr4VoY6f?si=9vtctbKPTsmUtdhoVivy1w</link>
+		</social>
+		<social>
+			<name>Bandcamp</name>
+			<link>polygrim.bandcamp.com</link>
+		</social>
+		<social>
+			<name>twitter.com/polygrim</name>
+			<link>twitter.com/polygrim</link>
+		</social>
+        	<social>
+            		<name>soundcloud.com/polygrim</name>
+            		<link>soundcloud.com/polygrim</link>
+        	</social>
+		<social>
+			<name>facebook.com/polygrim</name>
+			<link>facebook.com/polygrim</link>
+		</social>
+		<social>
+			<name>Instagram</name>
+			<link>instagram.com/polygrim</link>
+		</social>
+		<social>
+			<name>Dustyroom</name>
+			<link>dustyroom.com</link>
+		</social>
+	</socials>
+
+    <description>
+		Polygrim is an electronic music project by Volodymyr Dzitsiuk.
+	</description>
+		
+	<histories>
+	<history>
+	<header>Biography (EN)</header>
+        <text>Polygrim is the glitchy, vibrant and emotive electronic project of Ukrainian musician Volodymyr Dzitsiuk. By mixing synthesized and live elements, Polygrim shares inspiring stories packed in fragile melodies, fractured rhythms and saturated atmospheres. All the parts are combined into worrying and touchy electronica music, walking the edges of downtempo, braindance, ambient and techno. Polygrim was founded in late 2014. With his brother they had founded a small game studio Dustyroom, which became the home not only to their games but also to all the music — game soundtracks and studio albums.</text>
+	</history>
+	<history>
+	<header>Опис (УК)</header>
+        <text>Polygrim — київський електронний музичний проект з наголосом на атмосферність, мелодійність, креативний ритм та унікальну текстуру музики. Поєднуючи синтезовані та живі звукові елементи, Polygrim створює натхнені мелодійні історії. Примітними особливостями музики є програмування крихких деталізованих ритмів, несподіваність звукових прийомів та аранжування треків. Жанр музики належить до downtempo, braindance, ambient та techno. Проект Polygrim був створений 2014 року Володимиром Дзіцюком. Разом зі своїм братом вони започаткували маленьку студію зі створення ігор Dustyroom, що стала домівкою не лише для їхніх ігор, але й для всієї музики — саундтеків з ігор та студійних альбомів.</text>
+	</history>
+
+	
+	</histories>
+		
+	<trailers>
+		<trailer>
+			<name>Color Jungle</name>
+			<youtube>0zjODzdMevc</youtube>
+		</trailer>
+		<trailer>
+			<name>Smear</name>
+			<youtube>vikpS84q0w0</youtube>
+		</trailer>
+
+		<trailer>
+			<name>Tidal Everything (featuring The Confudions)</name>
+			<youtube>7O_XYS_nswM</youtube>
+		</trailer>
+		<trailer>
+			<name>Memories That Hurt</name>
+			<youtube>fvN7FozBz3s</youtube>
+		</trailer>
+		<trailer>
+			<name>Minimoon Voyager</name>
+			<youtube>RaZRgNDCVmw</youtube>
+		</trailer>
+        <trailer>
+            <name>Soundcloud</name>
+             <soundcloud>polygrim/minimoon-voyager</soundcloud>
+        </trailer>
+	</trailers>
+<!--
+	<awards>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+	</awards>
+-->
+
+    <quotes>
+		<quote>
+			<description>Memories That Hurt perfectly shows off Polygrim’s skills. It neatly delivers on two levels.
+                One is a hazy and dreamlike synthesizer odyssey, layered with rich pads and warbling leads, the other compelling
+                future R&amp;B beats and rolling basslines. The result is very a Röyksopp-esque symphony sound...</description>
+			<name>Electronic Rumors</name>
+			<website>Link</website>
+			<link>http://electronicrumors.com/2015/02/26/download-polygrims-memories-that-hurt/</link>
+		</quote>
+	</quotes>
+
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<additionals>
+		<additional>
+			<title>Synth Records</title>
+			<description>This link is a link that might be useful. You can check it out at</description>
+			<link>http://synthrecords.com</link>
+		</additional>
+        <additional>
+            <title>About Downtempo</title>
+            <description>Wiki page about downtempo</description>
+            <link>http://en.wikipedia.org/wiki/Downtempo</link>
+        </additional>
+	</additionals>
+	
+	<!--<credits>
+		<credit>
+			<person>John Doe</person>
+			<role>Artist, Freelancer</role>
+		</credit>
+		<credit>
+			<person>Oliver Twist</person>
+			<website>www.olivertwist.com</website>
+			<role>Artist, Freelancer</role>
+		</credit>
+		<credit>
+			<person>Jane Doette</person>
+			<website>www.olivertwist.com</website>
+			<role>Music, Freelancer</role>
+		</credit>
+	</credits> -->
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>info@polygrimmusic.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/polygrim</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/polygrim</link>
+		</contact>
+        <contact>
+            <name>Soundcloud</name>
+            <link>http://soundcloud.com/polygrim</link>
+        </contact>
+		<contact>
+			<name>Web</name>
+			<link>polygrimmusic.com</link>
+		</contact>
+	</contacts>
+</game>
