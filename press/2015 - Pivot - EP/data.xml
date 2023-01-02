@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Pivot</title>
+	<release-date>24 February, 2015</release-date>
+	<website>http://synthrecords.bandcamp.com/album/pivot</website>
+	<press-can-request-copy>FALSE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Bandcamp – Digital</name>
+			<link>https://synthrecords.bandcamp.com/album/pivot</link>
+		</platform>
+        <platform>
+            <name>Juno Download</name>
+            <link>http://www.junodownload.com/products/polygrim-pivot/2705417-02/</link>
+        </platform>
+        <platform>
+            <name>iTunes</name>
+            <link>https://itunes.apple.com/ua/album/pivot/id965253370</link>
+        </platform>
+		<platform>
+			<name>CD — Requests via email</name>
+			<link>http://www.polygrimmusic.com/</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>$3.00</value>
+		</price>
+	</prices>
+
+	<description>
+        Pivot is the debut EP by Polygrim. It was released Feb 24th on Teeel's label Synth Records. The album is an instrumental blend of downtempo, IDM and futuristic hip-hop. Pivot depicts the author's feeling about love as the main power that keeps our world floating'
+	</description>
+	
+	<!--<history>
+	Since we're an indie developer, we want a history to our game. This paragraph will explain this history in short. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	</history>
+-->
+	<features>FALSE</features>
+	
+	<trailers>
+		<trailer>
+			<name>Memories That Hurt</name>
+			<youtube>fvN7FozBz3s</youtube>
+		</trailer>
+		<trailer>
+			<name>Losing The Sun, Gaining The Shadows</name>
+			<youtube>zCrQ7OGR1Jc</youtube>
+		</trailer>
+		<trailer>
+			<name>Zorepad</name>
+			<youtube>MULejS3dvPE</youtube>
+		</trailer>
+		<trailer>
+			<name>Minimoon Voyager</name>
+			<youtube>RaZRgNDCVmw</youtube>
+		</trailer>
+		<trailer>
+			<name>Raster Noodles</name>
+			<youtube>3x2UJQGGl_o</youtube>
+		</trailer>
+		<trailer>
+			<name>Dream Like A Bird</name>
+			<youtube>TPkGmGXK3oM</youtube>
+		</trailer>
+		<trailer>
+			<name>The Longest Day In The World</name>
+			<youtube>mRQTyf2BGFs</youtube>
+		</trailer>
+
+		
+	</trailers>
+<!--
+	<awards>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+	</awards>
+-->
+
+	<quotes>
+		<quote>
+ <description>Memories That Hurt perfectly shows off Polygrim’s skills. It neatly delivers on two levels.
+ One is a hazy and dreamlike synthesizer odyssey, layered with rich pads and warbling leads, the other compelling
+ future R&amp;B beats and rolling basslines. The result is very a Röyksopp-esque symphony sound...</description>
+			<name>Electronic Rumors</name>
+			<website>Link</website>
+			<link>http://electronicrumors.com/2015/02/26/download-polygrims-memories-that-hurt/</link>
+		</quote>
+				
+	</quotes>
+<!--
+	<additionals>
+		<additional>
+			<title>Original Soundtrack</title>
+			<description>Available for free from</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+		<additional>
+			<title>Release Blog Post</title>
+			<description>The blog-post through which this game was released is available at</description>
+			<link>http://vlambeer.com/bloglink</link>
+		</additional>
+	</additionals>
+-->
+	<credits>
+		<credit>
+			<person>Volodymyr Dzitsiuk</person>
+			<role>Composing, Arranging &amp; Mixing</role>
+		</credit>
+		<credit>
+			<person>Sam John</person>
+			<role>Mastering, Precise Mastering</role>
+		</credit>
+	</credits>
+</game>
