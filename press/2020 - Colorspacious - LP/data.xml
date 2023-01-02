@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Colorspacious</title>
+	<release-date>18 September, 2020</release-date>
+	<website>http://dustyroom.com/colorspacious-album/</website>
+	<press-can-request-copy>FALSE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Bandcamp – Digital</name>
+			<link>https://polygrim.bandcamp.com/album/colorspacious</link>
+		</platform>
+        
+		<platform>
+			<name>Hyperfollow link - Digital</name>
+			<link>https://distrokid.com/hyperfollow/polygrim/colorspacious</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>$9.00</value>
+		</price>
+	</prices>
+
+	<description>
+        Colorspacious is an attempt at creating a somewhat epic, atmospheric, mellow, organic yet synthesized opus. It is Polygrim's first full length album.
+The sound of it may differ from his previous releases, because of tight self-imposed limitations, as well as an array of bizarre but wonderful coincidences during the sound design stage.
+Written and produced by Volodymyr Dzitsiuk during the period of early 2019 — mid 2020.
+</description>
+
+	
+	
+	<!--<history>
+	Since we're an indie developer, we want a history to our game. This paragraph will explain this history in short. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	</history>
+-->
+	<features>FALSE</features>
+	
+	<trailers>
+		<trailer>
+			<name>Color Jungle</name>
+			<youtube>0zjODzdMevc</youtube>
+			<vimeo>available soon</vimeo>
+		</trailer>
+		
+		<trailer>
+			<name>Smear</name>
+			<youtube>vikpS84q0w0</youtube>
+			<vimeo>available soon</vimeo>
+		</trailer>
+	</trailers>
+<!--
+	<awards>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+	</awards>
+-->
+<!--
+	<quotes>
+		<quote>
+ <description>
+</description>
+			<name></name>
+			<website></website>
+			<link></link>
+		</quote>
+				
+	</quotes>
+-->
+
+	<additionals>
+		<additional>
+			<title>Reviews</title>
+			<description>Review on Igloo</description>
+			<link>https://igloomag.com/reviews/polygrim-colorspacious</link>
+		</additional>
+		<additional>
+			<title>Reviews</title>
+			<description>Review on A Closer Listen</description>
+			<link>https://acloserlisten.com/2020/09/17/polygrim-colorspacious/</link>
+		</additional>
+	</additionals>
+
+	
+</game>
