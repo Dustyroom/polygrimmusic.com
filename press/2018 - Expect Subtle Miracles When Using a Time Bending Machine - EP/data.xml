@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Expect Subtle Miracles When Using a Time Bending Machine</title>
+	<release-date>15 May, 2018</release-date>
+	<website>https://polygrim.bandcamp.com/album/expect-subtle-miracles-when-using-a-time-bending-machine</website>
+	<press-can-request-copy>FALSE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Bandcamp – Digital</name>
+			<link>https://polygrim.bandcamp.com/album/expect-subtle-miracles-when-using-a-time-bending-machine</link>
+		</platform>
+        
+		<platform>
+			<name>Bandcamp - 12’’ Vinyl</name>
+			<link>https://polygrim.bandcamp.com/album/expect-subtle-miracles-when-using-a-time-bending-machine</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>$4.00</value>
+		</price>
+	</prices>
+
+	<description>
+        ‘Expect Subtle Miracles When Using a Time Bending Machine’ is the most optimistic and ambitious Polygrim record so far. Combining the signature synths and rhythms with acoustic guitars and piano helped us shape the vision of affectionate observation of the world, even in the climate of social insanity. There is a special strength in the subtle beauty that emerges in unpredicted places, the one that often fades away very quickly. We tried to notice this phenomenon and hopefully express in the record.
+	</description>
+	
+	<!--<history>
+	Since we're an indie developer, we want a history to our game. This paragraph will explain this history in short. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	</history>
+-->
+	<features>FALSE</features>
+	
+	<trailers>
+		<trailer>
+			<name>Floral Flotsam</name>
+			<youtube>MYR84AVzwUo</youtube>
+			<vimeo>available soon</vimeo>
+		</trailer>
+	</trailers>
+<!--
+	<awards>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+	</awards>
+-->
+<!--
+	<quotes>
+		<quote>
+ <description>
+</description>
+			<name></name>
+			<website></website>
+			<link></link>
+		</quote>
+				
+	</quotes>
+-->
+<!--
+	<additionals>
+		<additional>
+			<title>Original Soundtrack</title>
+			<description>Available for free from</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+		<additional>
+			<title>Release Blog Post</title>
+			<description>The blog-post through which this game was released is available at</description>
+			<link>http://vlambeer.com/bloglink</link>
+		</additional>
+	</additionals>
+-->
+	
+</game>
