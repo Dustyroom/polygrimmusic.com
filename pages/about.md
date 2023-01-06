@@ -12,6 +12,6 @@ Polygrim — київський електронний музичний прое
 
 ---
 
-### [Press Kit](https://polygrimmusic.com/press){: .link-rect}
+<!-- ### [Press Kit (zip, 19MB)](https://polygrimmusic.com/press/){: .link-rect}
 
-### [Technical Rider](/assets/docs/polygrim_tech_rider.pdf){: .link-rect}
+### [Technical Rider](/assets/docs/polygrim_tech_rider.pdf){: .link-rect} -->
