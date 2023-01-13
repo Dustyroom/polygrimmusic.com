@@ -3,6 +3,14 @@ layout: page
 title: MUSIC
 permalink: /music
 ---
+### Brimming • Album
+
+Release date • 13 January 2023
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3m8BXCHnwUkOintrwwNQRs?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+[Stream on the platforms](https://distrokid.com/hyperfollow/polygrim/brimming)
+
 
 ### Colorspacious • Album
 
