@@ -8,6 +8,9 @@ For booking please contact `info@polygrimmusic.com`
 
 | Event | Venue | Date |
 | ----- | ----- | ---- |
+| [Arms and Sleepers UA Tour](https://bandsintown.com/e/104785017) | Mezzanine • Kyiv, UA | 07 Oct 2023 |
+| [Arms and Sleepers UA Tour](https://bandsintown.com/e/104785015) | Sympatia Bar • Khmelnytskyi, UA | 05 Oct 2023 |
+| [Arms and Sleepers UA Tour](https://bandsintown.com/e/104785013) | Nyzhnyj Zal • Lviv, UA | 03 Oct 2023 |
 | [На Часі / Na Chasi](https://www.facebook.com/events/1724173171303179/) | Mezzanine • Kyiv, UA | 29 Oct 2022 |
 | [Povilno Session 8](https://www.facebook.com/events/189496829740568/) | Keller Bar • Kyiv, UA | 06 Jun 2021 |
 | [Hvlv Live](https://www.facebook.com/hvlvbar/) | Hvlv • Kyiv, UA | 28 Feb 2021 |
